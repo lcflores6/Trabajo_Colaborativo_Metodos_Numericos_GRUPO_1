@@ -11,3 +11,4 @@ El objetivo de este proyecto es calcular y visualizar los diferentes tipos de er
 ## 📂 Estructura del Repositorio
 * `/python/`: Scripts de implementación en Python (`.py` o `.ipynb`).
 * `/matlab/`: Scripts y funciones de implementación en MATLAB (`.m`).
+* `/documentos/`: Documentación del proyecto diapositivas y acta de coevaluación (`.pptx`) (`.pdf`).
